@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JasonMessmore
+- 👀 I’m interested in front end web development, but I plan to learn back end as well.
+- 🌱 I’m currently learning HTML, CSS, Javascript, and Python.
+- 💞️ I’m looking to collaborate on front end web develpment projects.
+- 📫 How to reach me reach out to me on LinkedIn.
