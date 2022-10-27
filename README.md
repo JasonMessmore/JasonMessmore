@@ -1,5 +1,6 @@
-![](https://raw.githubusercontent.com/jasonmessmore/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/jasonmessmore/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<a href="https://github.com/jstrieb/github-stats">
+ 
+![](https://github.com/JasonMessmore/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/JasonMessmore/github-stats/blob/master/generated/languages.svg)
 
-![](https://raw.githubusercontent.com/jasonmessmore/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/jasonmessmore/github-stats/master/generated/languages.svg#gh-light-mode-only)
+</a>
